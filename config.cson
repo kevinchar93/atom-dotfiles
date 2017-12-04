@@ -1,0 +1,16 @@
+"*":
+  "atomic-emacs":
+    alwaysUseKillRing: true
+    killWholeLine: true
+    yankFromClipboard: true
+  core:
+    telemetryConsent: "no"
+  editor:
+    lineHeight: 1.25
+    showLineNumbers: false
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "f65296ac-7fa6-4be3-a45d-5419dd2ee152"
+  welcome:
+    showOnStartup: false
